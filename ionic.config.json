@@ -1,0 +1,8 @@
+{
+  "name": "cordova-firebase-plugin",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
